@@ -1,0 +1,45 @@
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+yarn-error.log
+yarn.lock
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+cypress/fixtures/
+cypress/results/
+cypress/reports/
+cypress/e2e/*.js
+cypress/support/*.js
+cypress/pages/*.js
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build output
+dist/
+build/
+coverage/
+
+# IDEs and Editors
+.idea/
+.vscode/
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
